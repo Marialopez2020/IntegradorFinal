@@ -1,0 +1,183 @@
+/*****Ajustes Globales *****/
+* {
+  border: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+   background-color: #f1eaea !important;
+  font-family: "Roboto", sans-serif !important;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+h1 {
+  font-size: 46px;
+  font-weight: 500;
+}
+
+h2 {
+  font-size: 36px;
+  font-weight: 400;
+}
+
+p {
+  font-size: 16px !important;
+  line-height: 20px !important;
+  font-weight: 400 !important;
+}
+
+img {
+  object-fit: cover !important;
+}
+
+/*****HEADER & NAV*****/
+
+.img-logo {
+  width: 5rem;
+}
+
+li a:hover,
+li a:focus {
+  color: #ffffff !important;
+}
+
+/*Carousel Titulos*/
+.carousel-paragraph1 {
+  margin-top: -0.5rem;
+  padding-left: 28rem !important;
+}
+
+.carousel-paragraph2 {
+  margin-top: -0.5rem;
+  padding-left: 15rem !important;
+}
+
+.carousel-paragraph3 {
+  margin-top: -0.5rem;
+  padding-left: 1rem !important;
+}
+
+/*Carousel Imagenes*/
+.img-carousel {
+  height: 100%;
+  max-height: 100vh;
+  object-fit: cover;
+}
+
+.img-carousel3 {
+  object-position: 0 -10% !important;
+}
+
+.shadow-img {
+  background-color: rgba(0, 0, 0, 0.658);
+  max-height: 100vh;
+}
+
+/*****Main*****/
+
+main {
+  min-height: 85vh;
+}
+
+/*Seccion Oradores*/
+.card-s1 {
+  transition: 0.3s;
+}
+
+.card-s1:hover {
+  transform: scale(1.05);
+}
+
+.layout-title {
+  margin-top: -1rem !important;
+}
+
+/*Seccion Lugar-Fecha*/
+.section2-h {
+  height: 350px !important;
+}
+
+/*Seccion Inscripcion*/
+
+.img-bg {
+  background: url("../img/ba1-sm.jpg") !important;
+  background-attachment: fixed !important;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.form-t {
+  width: 600px !important;
+  width: 100% !important;
+  height: 400px !important;
+}
+
+.punteado {
+  border-bottom: 2px dotted black;
+}
+
+span a {
+  color: rgb(39, 37, 37) !important;
+}
+
+.textarea {
+  resize: none;
+}
+
+.layout-title-s3 {
+  margin-top: 2rem;
+}
+
+/*****Pagina Tickets*****/
+.card-hover {
+  transition: 0.5s;
+}
+
+.card-hover:hover {
+  transform: scale(1.04);
+  transition: 0.5s;
+  cursor: pointer;
+}
+
+.btn-tickets {
+  width: 100% !important;
+  padding: 0.5rem 0 !important;
+}
+
+.bg-lightblue {
+  background-color: #cce5ff !important;
+}
+
+@media only screen and (min-width: 769px) {
+  .tickets-section {
+    margin: auto !important;
+    width: 70% !important;
+  }
+}
+
+/*****Footer General*****/
+
+footer {
+  min-height: 15vh;
+  background-color: #1d4358;
+}
+
+footer a {
+  color: white;
+  font-size: 14px;
+}
+
+footer a:hover {
+  color: rgb(122, 204, 220) !important;
+  font-size: 16px !important;
+}
+
+table, tr, td, th {
+  padding: .5rem;
+  border: 3px solid black;
+ 
+}
