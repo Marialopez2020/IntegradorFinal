@@ -2,6 +2,16 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Crud-Java-Web/src/java/Modelo/PersonaDAO.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Crud-Java-Web/src/java/Modelo/Persona.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Crud-Java-Web/src/java/Modelo/usuario.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Crud-Java-Web/web/add.jsp</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Crud-Java-Web/src/java/Controlador/Controlador.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Crud-Java-Web/src/java/Controlador/srvUsuario.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Crud-Java-Web/src/java/Modelo/Conexion.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Crud-Java-Web/src/java/Modelo/DAOUSUARIO.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Crud-Java-Web/src/java/Modelo/cargo.java</file>
+        </group>
     </open-files>
 </project-private>
