@@ -12,3 +12,4 @@
 ## Video de demostración
 
 - https://youtu.be/NHvH5yKBacQ
+![Dashboard](https://github.com/Marialopez2020/IntegradorFinal/assets/108435053/25bb2815-2a77-4a0c-b306-deb926f025d8)
