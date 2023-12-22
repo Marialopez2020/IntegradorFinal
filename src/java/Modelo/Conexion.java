@@ -7,7 +7,6 @@ import java.sql.SQLException;
 
 public class Conexion {
   
-   
     Connection conexion = null;
 
     public String base = "crud?serverTimezone=UTC";
