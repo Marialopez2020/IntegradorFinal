@@ -245,17 +245,13 @@
                     <div class="row d-flex justify-content-center">
                         <div class="col-md-6">
                             <div class="card card-s1 form-t p-1 img-bg">
-
                                 <p class="layout-title-s3 p-4">Anótate como orador para dar una <span class="punteado"><a
                                             href="">charla ignite</a></span>. Cuéntanos de qué quieres
                                     hablar!
                                 </p>
-
                                 <form action="Controlador" method="POST">
                                     <div class="row g-3">
-
                                         <input type="hidden" name="txtid"> 
-
                                         <div class="col-md-6 mb-1">
                                             <input type="text" class="form-control" placeholder="Nombre"
                                                    aria-label="First name" name="txtnom">
@@ -270,8 +266,7 @@
                                             <label for="comment"></label>
                                             <textarea class="form-control text-muted textarea" rows="4" id="comment"
                                                       name="txttematica" placeholder="Sobre qué quieres hablar?"></textarea>
-                                            <div class="fs-6 text-black fw-bold"><small>Recuerda incluir un título para tu
-                                                    charla</small></div>
+                                            <div class="fs-6 text-black fw-bold"></div>
                                             <!--Asociado al case "Guardar" del Controlador-->
                                             <input class="btn btn-success col-12 mt-2" type="submit" value="Guardar" name="accion">
 
